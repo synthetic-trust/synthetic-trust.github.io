@@ -19,4 +19,4 @@ Content for black hat presentation on deep audio fake
 - Pindrop's study on whether people can detect deepfake: https://tinyurl.com/pdrop-deep-57
 - Generosity and time bias: https://direct.mit.edu/rest/article/105/3/683/100982/Is-Generosity-Time-Inconsistent-Present-Bias
 - Family member's voice can be predicted: https://tinyurl.com/family-voice
-- NSA/Palantir: 
+- NSA/Palantir: https://www.cnbc.com/2018/01/20/the-nsa-can-recognize-you-by-just-your-voice-predating-apple-amazon.html
