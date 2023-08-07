@@ -43,6 +43,6 @@ Content for black hat presentation on deep audio fake
 - Fraud Adapter: otolytics.io
 
 ### Geopolitical Implications 
+- Cambridge Analytica Scandal: https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html
 - Lil Miquela: https://www.instagram.com/lilmiquela/
-- https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html
 
